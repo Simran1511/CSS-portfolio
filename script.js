@@ -48,8 +48,7 @@ if (contactForm) {
         // 3. Send data using fetch
         fetch(scriptURL,  {
             method: 'POST',
-            body: formData,
-            
+            body: formData
             
         })
        
