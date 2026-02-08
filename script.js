@@ -43,7 +43,7 @@ if (contactForm) {
 
         // 2. YOUR GOOGLE SCRIPT URL GOES HERE
         // Replace the URL below with the one you copied in Step 3
-        const scriptURL = "https://script.google.com/macros/s/AKfycby-MrI1wsI0pQBiDPTSKFW_U0JVutr4tY5I0H-MjmOAob1JVa9opfsD43MWjgXIUQ/exec";
+        const scriptURL = "https://script.google.com/macros/s/AKfycbxwbiFiWKBYDZWoJTEoNew9cn0t3Jg_0a_OnDo8e7GWwKKd-wGL-QUSErnzZ2BBxZQU/exec";
 
         // 3. Send data using fetch
         fetch(scriptURL,  {
